@@ -4,7 +4,7 @@
 
 ## 代表作
 
-**[coCN](https://github.com/3477856804/coCN)** —— 用 coCN 自身编写的中文编程语言（自举）。
+**[cocn](https://github.com/3477856804/cocn)** —— 用 cocn 自身编写的中文编程语言（自举），当前版本 0.0.1。
 19 个首批包、三通道门禁、crates.io 式注册表与 Cargo 风格工具链。
 
 ## 找我
